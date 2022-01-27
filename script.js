@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: [ "Developer" , "Web Designer", "Discord Dev", "Fivem Dev","Game Server Dev", "High School Student"],
+        strings: [ "ETHICAL HACKER" , "Developer" , "Web Designer", "Discord Dev", "Fivem Dev","Game Server Dev", "High School Student"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
